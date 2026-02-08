@@ -1,0 +1,28 @@
+{
+  "name": "aws-lambda",
+  "version": "1.0.0",
+  "description": "Handler Minimalista",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valerio-figueira/aws-lambda.git"
+  },
+  "author": "José Valério",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valerio-figueira/aws-lambda/issues"
+  },
+  "homepage": "https://github.com/valerio-figueira/aws-lambda#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/aws-lambda": "^8.10.160",
+    "eslint": "^10.0.0",
+    "globals": "^17.3.0",
+    "jiti": "^2.6.1",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.54.0"
+  }
+}
